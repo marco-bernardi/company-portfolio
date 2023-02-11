@@ -158,7 +158,11 @@ html { font-family: var(--ff-poppins); }
 body { background: var(--smoky-black); }
 
 
-
+.tw {
+  font-family: Tomato Grotesk;
+  color: white;
+  font-size: larger;
+}
 
 
 /*-----------------------------------*\
